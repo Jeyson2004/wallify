@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">wallify-wallpaper</string>
+    <string name="title_activity_main">wallify-wallpaper</string>
+    <string name="package_name">com.jeyson.wallify</string>
+    <string name="custom_url_scheme">com.jeyson.wallify</string>
+</resources>
